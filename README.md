@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on spring boot / spring framework<br>I'm interested in web design and development<br>I am trying to improve myself by making projects with .net core.<br>You can reach me here: esintugbadurur@gmail.com<br> 
+I'm currently working on spring boot / spring framework<br>I'm interested in web design and development<br>I am trying to improve myself by making projects with .Net core.<br>You can reach me here: esintugbadurur@gmail.com<br> 
 
 
 ## 🌐 Socials:
