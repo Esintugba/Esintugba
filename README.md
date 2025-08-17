@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a 4th year student of Computer Engineering at Erzurum Technical University.<br>
-I'm currently working on spring boot / spring framework<br>I'm interested in web design and development<br>I am trying to improve myself by making projects with .Net core.<br>You can reach me here: esintugbadurur@gmail.com<br> 
+I am a Computer Engineer focused on continuously improving myself in software development. I develop projects mainly using Spring Boot and .NET technologies, and I am gaining expertise in backend development. I am an open-minded developer who loves building new things and keeping up with emerging technologies.<br>
+<br>You can reach me here: esintugbadurur@gmail.com<br> 
 
 
 ## 🌐 Socials:
